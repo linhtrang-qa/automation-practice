@@ -1,0 +1,6 @@
+# Node modules
+node_modules/
+
+# Environment variables (chứa thông tin nhạy cảm)
+.env
+.env.*
